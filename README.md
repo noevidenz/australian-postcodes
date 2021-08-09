@@ -1,3 +1,7 @@
+## This repo is not maintained
+
+Please consider using https://github.com/matthewproctor/australianpostcodes
+
 Australian Postcodes
 ====================
 
